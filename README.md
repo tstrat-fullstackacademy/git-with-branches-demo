@@ -8,3 +8,5 @@ Steps for using git with branches and with Team members:
 
 3. Write your code
   - add/commit and push often to save the code on git and github
+
+4. When you are satisfied with the current task/feature, be sure to `git push` the final changes to your branch - NOT TO MAIN
